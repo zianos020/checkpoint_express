@@ -1,0 +1,23 @@
+{
+  "name": "checkpoint_express",
+  "version": "1.0.0",
+  "description": "\"this is the checkpoint for node_express\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/zianos020/checkpoint_express.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoDB"
+  ],
+  "author": "zaiden",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
